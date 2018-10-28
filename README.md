@@ -15,3 +15,4 @@ Predict male or female from cropped face picture.
     "The notebook server will temporarily stop sending output to the client in order to avoid crashing it. To change this limit, set the config variable"
     
     "Solution: Run jupyter with command: jupyter notebook --NotebookApp.iopub_data_rate_limit=100000000"
+[GitHub](http://github.com)
