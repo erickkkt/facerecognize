@@ -1,7 +1,7 @@
 
 # FaceRecognize
 Predict male or female from cropped face picture.
-  - [Implement Leanring algorithms with Scicit-Learn: k-nn, DecisionTree, Logistic, SVM, MLP] https://github.com/erickkkt/facerecognize/blob/master/MaleFemale_CNN_TH.ipynb
+  - [Implement Leanring algorithms with Scicit-Learn: k-nn, DecisionTree, Logistic, SVM, MLP] (https://github.com/erickkkt/facerecognize/blob/master/MaleFemale_CNN_TH.ipynb)
   - [Implement reduce specific features with PCA]
   - [Implement Neuron-Network by tensorflow]
   - [Implement CNN net by tensorflow]
