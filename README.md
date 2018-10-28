@@ -1,12 +1,12 @@
 
 # FaceRecognize
 Predict male or female from cropped face picture.
-  - Implement Leanring algorithms with Scicit-Learn: k-nn, DecisionTree, Logistic, SVM, MLP
-  - Implement reduce specific features with PCA
-  - Implement Neuron-Network by tensorflow
-  - Implement CNN net by tensorflow
-  - Crawl profile picture from facebook
-  - Crop face by OpenCV
+  - [Implement Leanring algorithms with Scicit-Learn: k-nn, DecisionTree, Logistic, SVM, MLP] 
+  - [Implement reduce specific features with PCA]
+  - [Implement Neuron-Network by tensorflow]
+  - [Implement CNN net by tensorflow]
+  - [Crawl profile picture from facebook]
+  - [Crop face by OpenCV]
 
 # Run
   - Should install necessary libraries before run
